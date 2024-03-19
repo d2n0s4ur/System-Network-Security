@@ -1,0 +1,6 @@
+*.o
+*.stash
+*.user
+Makefile
+pcap-test
+
